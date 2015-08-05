@@ -12,7 +12,6 @@
     <artifactId>newspaper-batch-event-framework</artifactId>
     <packaging>pom</packaging>
 
-
     <modules>
         <module>newspaper-batch-event-framework-common</module>
         <module>newspaper-autonomous-component</module>
