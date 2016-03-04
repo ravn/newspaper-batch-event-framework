@@ -1,0 +1,3 @@
+[submodule "newspaper-parent"]
+	path = newspaper-parent
+	url = git@github.com:statsbiblioteket/newspaper-parent.git
