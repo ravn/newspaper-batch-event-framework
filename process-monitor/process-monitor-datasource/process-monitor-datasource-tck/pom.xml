@@ -3,16 +3,16 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>dk.statsbiblioteket.newspaper</groupId>
+        <groupId>dk.statsbiblioteket.newspaper.repo.https_3A_2F_2Fgithub_2Ecom_2Fravn_2Fnewspaper_2Dparent_2Egit</groupId>
         <artifactId>process-monitor-datasource</artifactId>
-        <version>2.11-SNAPSHOT</version>
+        <version>master-SNAPSHOT</version>
     </parent>
 
     <artifactId>process-monitor-datasource-tck</artifactId>
 
     <dependencies>
         <dependency>
-            <groupId>dk.statsbiblioteket.newspaper</groupId>
+            <groupId>dk.statsbiblioteket.newspaper.repo.https_3A_2F_2Fgithub_2Ecom_2Fravn_2Fnewspaper_2Dparent_2Egit</groupId>
             <artifactId>process-monitor-datasource-interfaces</artifactId>
             <version>${project.version}</version>
         </dependency>
