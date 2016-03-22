@@ -31,7 +31,7 @@
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>dk.statsbiblioteket.doms.central</groupId>
+            <groupId>dk.statsbiblioteket.doms.central.repo.https_3A_2F_2Fgithub_2Ecom_2Fravn_2Fdoms_2Dserver_2Egit</groupId>
             <artifactId>centralWebservice-lib</artifactId>
         </dependency>
         <dependency>

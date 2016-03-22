@@ -74,7 +74,7 @@
             </dependency>
 
             <dependency>
-                <groupId>dk.statsbiblioteket.sbutil</groupId>
+                <groupId>dk.statsbiblioteket.sbutil.repo.https_3A_2F_2Fgithub_2Ecom_2Fravn_2Fsbutil_2Egit</groupId>
                 <artifactId>sbutil-common</artifactId>
                 <version>0.5.29</version>
                 <exclusions>
@@ -89,7 +89,7 @@
                 </exclusions>
             </dependency>
             <dependency>
-                <groupId>dk.statsbiblioteket.doms.central</groupId>
+                <groupId>dk.statsbiblioteket.doms.central.repo.https_3A_2F_2Fgithub_2Ecom_2Fravn_2Fdoms_2Dserver_2Egit</groupId>
                 <artifactId>centralWebservice-lib</artifactId>
                 <version>1.17</version>
                 <exclusions>
@@ -106,7 +106,7 @@
                         <artifactId>commons-logging</artifactId>
                     </exclusion>
                     <exclusion>
-                        <groupId>dk.statsbiblioteket.sbutil</groupId>
+                        <groupId>dk.statsbiblioteket.sbutil.repo.https_3A_2F_2Fgithub_2Ecom_2Fravn_2Fsbutil_2Egit</groupId>
                         <artifactId>sbutil</artifactId>
                     </exclusion>
                     <exclusion>
